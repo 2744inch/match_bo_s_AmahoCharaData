@@ -1,0 +1,2 @@
+# match_bo_s_AmahoCharaData
+マッチ棒のＡマホ公式プレイ環境用キャラクターデータ保管所です。
